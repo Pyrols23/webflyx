@@ -1,0 +1,5 @@
+print("- "May the Force be with you"")
+print("- "I find your lack of faith disturbing"")
+print("- "I am your father"")
+print("- "Do or do not. There is no try"")
+print("- "I've got a bad feeling about this"")
